@@ -1,0 +1,16 @@
+Plunging a grid
+Turn on 
+02:11	Loading the forceps onto the plunging arm ?
+02:25	Lowering the environmental chamber ?
+02:46	Applying the sample by micropipette through one of two side access ports of the GP2 ?
+03:01	Blotting the sample?
+03:09	(Automatic) plunging the sample
+03:28	Forceps (optionally) raise a couple millimeters for easier separation from the plunging arm
+03:31	Disconnecting the forceps from the plunging arm, and putting the grid in the gridbox
+03:53	Raising the plunging arm, returning the system to starting setup
+
+Baking out the GP2
+04:19	Emptying the humidifier tank via syringe (filling is the reverse), the tank is also removable
+04:57	Removing transfer box and other components from the cryo work area (05:20 is removing the cryogen cup)
+05:40	Activating bake out (Page 53 of the manual for better images of what's happening on the control box)
+05:55	Opening the chamber window
