@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.leica_gp2-15973114.ue4editor.exe",
+			"app_key": "application.generated.ue.lecia-15973114.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "E:/Leica/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/CryoVR/CryoVR_Leica-EM-GP2/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "Leica_GP2-15973114 [UE Editor]"
+					"name": "Lecia-15973114 [UE Editor]"
 				}
 			}
 		}
